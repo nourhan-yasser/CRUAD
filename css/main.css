@@ -1,0 +1,16 @@
+.form-project,.output{
+    background-color: #97858ecc;
+    
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    background-image: url("./imag/1.jpg");
+    
+    background-position:  center; 
+    background-size: contain: ;
+    background-repeat: repeat; 
+
+   
+}
